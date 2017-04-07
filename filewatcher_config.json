@@ -1,0 +1,7 @@
+{
+    "output_file": "filewatcher.log",
+    "input_files": [
+        "c:/test/alarm2.log",
+        "c:/test/alarm.log"
+    ]
+}
